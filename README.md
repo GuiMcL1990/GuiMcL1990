@@ -2,7 +2,7 @@
 ## 💻 Desenvolvedor de Sistemas
 
 
-Desenvolvedor de sistemas. Tenho 17 anos e sou natural de Minas Gerais.  
+Tenho 17 anos e sou natural de Minas Gerais.  
 Estou focado no desenvolvimento de soluções tecnológicas e programação, com forte interesse em aprimorar minhas habilidades técnicas e contribuir para projetos inovadores.
 
 ---

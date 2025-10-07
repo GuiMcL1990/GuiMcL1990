@@ -8,7 +8,6 @@ Estou focado no desenvolvimento de soluções tecnológicas e programação, com
 ---
 
 ## 💼 Sobre mim
-- 🎯 Interesse em melhoria de processos e tomada de decisão baseada em dados.  
 - 📚 Em constante aprendizado.  
 - 🤝 Aberto a colaborações em projetos.
 
